@@ -10,8 +10,8 @@ This Specialization provides a hands-on introduction to functional programming u
 
 - [Assignment 1: Basic Scala, Pascal Triangle, Parenthesis Balancing, Counting Change](https://github.com/leonardovaladao/Scala-Specialization/tree/main/1.Fundamentals-of-Functional-Programming/Week1/recfun)
 - [Assignment 2: Basic Functions on Sets, Queries and Transformations on Sets](https://github.com/leonardovaladao/Scala-Specialization/tree/main/1.Fundamentals-of-Functional-Programming/Week2/funsets)
-- [Assignment 3: Object-Oriented Sets, Filtering, Taking Unions, Sorting] (https://github.com/leonardovaladao/Scala-Specialization/tree/main/1.Fundamentals-of-Functional-Programming/Week3/objsets)
-- [Assignment 4: Huffman Encoding/Decoding] (https://github.com/leonardovaladao/Scala-Specialization/tree/main/1.Fundamentals-of-Functional-Programming/Week4/patmat)
-- [Assignment 5: Anagram Representation] (https://github.com/leonardovaladao/Scala-Specialization/tree/main/1.Fundamentals-of-Functional-Programming/Week6/forcomp)
+- [Assignment 3: Object-Oriented Sets, Filtering, Taking Unions, Sorting](https://github.com/leonardovaladao/Scala-Specialization/tree/main/1.Fundamentals-of-Functional-Programming/Week3/objsets)
+- [Assignment 4: Huffman Encoding/Decoding](https://github.com/leonardovaladao/Scala-Specialization/tree/main/1.Fundamentals-of-Functional-Programming/Week4/patmat)
+- [Assignment 5: Anagram Representation](https://github.com/leonardovaladao/Scala-Specialization/tree/main/1.Fundamentals-of-Functional-Programming/Week6/forcomp)
 
 ## [Course 2: Big Data Analysis with Scala and Spark](https://github.com/leonardovaladao/Scala-Specialization/tree/main/4.Big-Data-Analysis-with-Scala-and-Spark)
