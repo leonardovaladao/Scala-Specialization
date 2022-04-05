@@ -15,3 +15,7 @@ This Specialization provides a hands-on introduction to functional programming u
 - [Assignment 5: Anagram Representation](https://github.com/leonardovaladao/Scala-Specialization/tree/main/1.Fundamentals-of-Functional-Programming/Week6/forcomp)
 
 ## [Course 2: Big Data Analysis with Scala and Spark](https://github.com/leonardovaladao/Scala-Specialization/tree/main/4.Big-Data-Analysis-with-Scala-and-Spark)
+
+- [Assignment 1: Wikipedia Analysis, ranking languages occurences in the website](https://github.com/leonardovaladao/Scala-Specialization/tree/main/4.Big-Data-Analysis-with-Scala-and-Spark/Week1/wikipedia)
+- [Assignment 2: StackOverflow Analysis applying K-Means Algorithm for clustering different languages and ranks](https://github.com/leonardovaladao/Scala-Specialization/tree/main/4.Big-Data-Analysis-with-Scala-and-Spark/Week2/stackoverflow)
+- [Assignment 3: Time Usage Analysis, finding how the average north-american uses their time](https://github.com/leonardovaladao/Scala-Specialization/tree/main/4.Big-Data-Analysis-with-Scala-and-Spark/Week4/timeusage)
